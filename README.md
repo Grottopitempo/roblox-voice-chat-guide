@@ -50,11 +50,7 @@ Then open the:
 
 ### 4. 🔄 Refresh the page
 
-Reload the page by pressing:
-
-```text
-Ctrl + R
-```
+Reload the page by pressing **Ctrl + R**.
 
 Wait a few seconds for the Network requests to load.
 
@@ -102,11 +98,7 @@ Follow the website's instructions without entering your Roblox password or other
 <details>
 <summary><strong>🔎 I can't find the Network tab</strong></summary>
 
-Open Developer Tools by pressing:
-
-```text
-F12
-```
+Open Developer Tools by pressing **F12**.
 
 Then select **Network**.
 
